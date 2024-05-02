@@ -1,4 +1,4 @@
- <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="express" width="40" height="40"/>
+ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="express" width="400" height="100"/>
 <h1 align="center">Hi 👋, I'm AmanDhungel</h1>
 <h3 align="center">A passionate full-Stack (MERN) developer</h3>
 
