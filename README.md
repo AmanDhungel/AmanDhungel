@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ5YWhmc3J2cjVvZDFqeDVqajNyY210NXJ1eWVoY2U1cnhhbGgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QX6ruFElzFdeIfblrg/giphy.gif" alt="dhungel_aman" height="400" width="1900" />
+<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJ5YWhmc3J2cjVvZDFqeDVqajNyY210NXJ1eWVoY2U1cnhhbGgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QX6ruFElzFdeIfblrg/giphy.gif" alt="dhungel_aman" height="200" width="1900" />
 <h1 align="center">Hi 👋, I'm AmanDhungel</h1>
 <h3 align="center">A Passionate Full-Stack (MERN) developer</h3>
 
