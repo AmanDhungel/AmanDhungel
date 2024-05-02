@@ -1,6 +1,6 @@
  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="express" width="1500" height="300"/>
 <h1 align="center">Hi 👋, I'm AmanDhungel</h1>
-<h3 align="center">A passionate full-Stack (MERN) developer</h3>
+<h3 align="center">A Passionate Full-Stack (MERN) developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandhungel&label=Profile%20views&color=0e75b6&style=flat" alt="amandhungel" /> </p>
 
