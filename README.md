@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/QX6ruFElzFdeIfblrg" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-programmer-QX6ruFElzFdeIfblrg">via GIPHY</a></p>
+<img align="center" src="https://giphy.com/embed/QX6ruFElzFdeIfblrg" alt="dhungel_aman" height="30" width="40" />
 <h1 align="center">Hi 👋, I'm AmanDhungel</h1>
 <h3 align="center">A Passionate Full-Stack (MERN) developer</h3>
 
