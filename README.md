@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **Anything that help other's**
-
 - 👨‍💻 All of my projects are available at [https://amandhungel.github.io/portfolio/](https://amandhungel.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aman-dhungel-1a4773187/](https://www.linkedin.com/in/aman-dhungel-1a4773187/)
