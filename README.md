@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://amandhungel.github.io/portfolio/](https://amandhungel.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://amandhungel.github.io/Portfolio-main](https://amandhungel.github.io/Portfolio-main)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aman-dhungel-1a4773187/](https://www.linkedin.com/in/aman-dhungel-1a4773187/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dhungelaman2000@gmail.com**
 
-- 📄 Know about my experiences [https://amandhungel.github.io/portfolio/static/media/DhungelAman-Resume.4c962638bdb906868998.pdf](https://amandhungel.github.io/portfolio/static/media/DhungelAman-Resume.4c962638bdb906868998.pdf)
+- 📄 Know about my experiences [https://amandhungel.github.io/Portfolio-main/assets/AmanDhungel-Resume-CQndxEUT.pdf](https://amandhungel.github.io/Portfolio-main/assets/AmanDhungel-Resume-CQndxEUT.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
