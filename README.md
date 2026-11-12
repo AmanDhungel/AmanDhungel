@@ -4,15 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandhungel&label=Profile%20views&color=0e75b6&style=flat" alt="amandhungel" /> </p>
 
-- 🔭 I’m currently working on **Expedition Project**
-
-- 🌱 I’m currently learning **MERN**
-
-- 👨‍💻 All of my projects are available at [https://www.amandhungel.com.np/](https://www.amandhungel.com.np/)
+- 👨‍💻 My CV and all professional information are available here [https://www.amandhungel.com.np/](https://www.amandhungel.com.np/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aman-dhungel-1a4773187/](https://www.linkedin.com/in/aman-dhungel-1a4773187/)
-
-- 💬 Ask me about **React, HTML, CSS, Vanilla JS**
 
 - 📫 How to reach me **dhungelaman2000@gmail.com**
 
