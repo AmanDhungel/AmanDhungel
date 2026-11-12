@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://amandhungel.github.io/Portfolio-main](https://amandhungel.github.io/Portfolio-main)
+- 👨‍💻 All of my projects are available at [https://amandhungel.github.io/Portfolio-main](https://www.amandhungel.com.np/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aman-dhungel-1a4773187/](https://www.linkedin.com/in/aman-dhungel-1a4773187/)
 
