@@ -1,22 +1,101 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdmaXhxYWltaWhtbmlhYzljdGU2NDg5OTI0bjZyMDByeDh1M2F0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fPOm3oqOWNFOMlLH1I/giphy.gif" alt="dhungel_aman" height="200" width="1900" />
-<h1 align="center">Hi 👋, I'm AmanDhungel</h1>
-<h3 align="center">A Passionate Full-Stack (MERN) developer</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pass-for-dark-theme.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pass-for-light-theme.svg">
+  <img alt="Remote work pass for Aman Dhungel, full-stack developer in Kathmandu, open to remote roles" src="./assets/pass-for-dark-theme.svg" width="100%">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandhungel&label=Profile%20views&color=0e75b6&style=flat" alt="amandhungel" /> </p>
+### Hi, I'm Aman.
 
-- 👨‍💻 My CV and all professional information are available here [https://www.amandhungel.com.np/](https://www.amandhungel.com.np/)
+I build web apps end to end, from the booking screen a customer taps on to the API, database and payments behind it. Right now I'm the only engineer on [whaustralia.com](https://whaustralia.com) for an Australian client, and I lead a team of six developers at GurukulHub in Kathmandu.
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aman-dhungel-1a4773187/](https://www.linkedin.com/in/aman-dhungel-1a4773187/)
+I'm open to remote contract and full-time roles, and I'm happy to overlap with Australian business hours.
 
-- 📫 How to reach me **dhungelaman2000@gmail.com**
+**[Portfolio](https://amanportfolio-bay.vercel.app)** &nbsp;/&nbsp; **[LinkedIn](https://www.linkedin.com/in/aman-dhungel-1a4773187)** &nbsp;/&nbsp; **[Email me](mailto:dhungelaman2000@gmail.com)**
 
-- 📄 Know about my experiences [https://amandhungel.github.io/Portfolio-main/assets/AmanDhungel-Resume-CQndxEUT.pdf](https://amandhungel.github.io/Portfolio-main/assets/AmanDhungel-Resume-CQndxEUT.pdf)
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhungel_aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhungel_aman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-dhungel-1a4773187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-dhungel-1a4773187" height="30" width="40" /></a>
-</p>
+### What I'm working on
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **[whaustralia.com](https://whaustralia.com)**: a community platform where Australian local businesses list their services, take bookings, manage staff shifts and sell event tickets with Stripe and QR check-in. I designed and built the frontend and backend on my own.
+- **The whaustralia mobile app**: React Native and Expo, running on the same APIs as the web app.
+- **EMS**: my own business system for employees, field jobs, stock and accounting. Staff can only check in near the job site, check-ins queue up offline and sync later, and every business gets its own workspace and public website. <!-- Add the repo link here once it's public, e.g. [EMS](https://github.com/AmanDhungel/your-repo-name) -->
+
+<br>
+
+### Things I've shipped
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| [whaustralia.com](https://whaustralia.com) | Local business directory, bookings, staff scheduling and event ticketing | Stripe, Redis, React Native (in progress) |
+| EMS | Business system with geofenced check-ins, an offline queue and unit-tested accounting | Next.js, TypeScript, MongoDB, AWS S3 |
+| [nationalhomedecor.com.np](https://nationalhomedecor.com.np) | Online store with cart, eSewa payments, blog and admin panel | Next.js, Node.js, TypeScript |
+| [ssstoreandsuppliers.com](https://ssstoreandsuppliers.com) | E-commerce site with a simpler checkout and SEO work behind it | React, GSAP |
+| [bamboohomesupport.com.au](https://bamboohomesupport.com.au) and [bamboonursing.com.au](https://bamboonursing.com.au) | Websites for two Australian businesses | WordPress |
+
+<br>
+
+### Tools I use
+
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,sass&theme=dark">
+        <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Sass" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,sass&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend and data</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb,redis,prisma,firebase&theme=dark">
+        <img alt="Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb,redis,prisma,firebase&theme=light">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud and delivery</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,git,vercel&theme=dark">
+        <img alt="AWS, Docker, GitHub Actions, GitLab CI, Git, Vercel" src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,git,vercel&theme=light">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+Also: React Native and Expo, Zustand, TanStack Query, Stripe, JWT auth, AWS Lambda, ECS and SNS, GSAP and WordPress.
+
+<br>
+
+### Where I've worked
+
+| Role | Company | When |
+| :-- | :-- | :-- |
+| Full-stack developer (freelance, remote) | Sunyaverse, Australia | Jan 2026 to now |
+| Full-stack developer, leading a team of six | GurukulHub, Kathmandu | Oct 2025 to now |
+| Web developer and marketing manager | Suvaansh Group | Jun 2025 to Apr 2026 |
+| Junior frontend developer | Fatdog Labs Agency, Kathmandu | Mar 2024 to Feb 2025 |
+| Freelance and contract work | Clients in Nepal | 2022 to 2024 |
+
+B.IT from the University of Sunderland, taught at ISMT College, Kathmandu (2019 to 2023).
+
+<br>
+
+### On GitHub
+
+<!-- These two cards are generated by .github/workflows/profile-cards.yml. Run it once from the Actions tab after pushing. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+  <img alt="Aman's GitHub stats" src="./profile/stats-light.svg" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Aman's most used languages" src="./profile/top-langs-light.svg" height="165">
+</picture>
+
+<br>
+
+<sub>Kathmandu, Nepal (UTC+5:45). The quickest way to reach me is <a href="mailto:dhungelaman2000@gmail.com">dhungelaman2000@gmail.com</a>.</sub>
