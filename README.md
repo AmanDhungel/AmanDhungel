@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pass-for-dark-theme.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/pass-for-light-theme.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./pass-for-dark-theme.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./pass-for-light-theme.svg">
   <img alt="Remote work pass for Aman Dhungel, full-stack developer in Kathmandu, open to remote roles" src="./assets/pass-for-dark-theme.svg" width="100%">
 </picture>
 
