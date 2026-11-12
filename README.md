@@ -70,15 +70,7 @@ Also: React Native and Expo, Zustand, TanStack Query, Stripe, JWT auth, AWS Lamb
 
 <br>
 
-### Where I've worked
 
-| Role                                        | Company                       | When                 |
-| :------------------------------------------ | :---------------------------- | :------------------- |
-| Full-stack developer (freelance, remote)    | Sunyaverse, Australia         | Jan 2026 to now      |
-| Full-stack developer, leading a team of six | GurukulHub, Kathmandu         | Oct 2025 to now      |
-| Web developer and marketing manager         | Suvaansh Group                | Jun 2025 to Apr 2026 |
-| Junior frontend developer                   | Fatdog Labs Agency, Kathmandu | Mar 2024 to Feb 2025 |
-| Freelance and contract work                 | Clients in Nepal              | 2022 to 2024         |
 
 B.IT from the University of Sunderland, taught at ISMT College, Kathmandu (2019 to 2023).
 
