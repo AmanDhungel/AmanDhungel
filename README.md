@@ -41,8 +41,8 @@ I'm open to remote contract and full-time roles, and I'm happy to overlap with A
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,sass&theme=dark">
-        <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Sass" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,sass&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Credux%2Ctailwind%2Chtml%2Ccss%2Csass&theme=dark">
+        <img alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, HTML, CSS, Sass" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Credux%2Ctailwind%2Chtml%2Ccss%2Csass&theme=light">
       </picture>
     </td>
   </tr>
@@ -50,8 +50,8 @@ I'm open to remote contract and full-time roles, and I'm happy to overlap with A
     <td><b>Backend and data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb,redis,prisma,firebase&theme=dark">
-        <img alt="Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,mongodb,redis,prisma,firebase&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cprisma%2Cfirebase&theme=dark">
+        <img alt="Node.js, Express, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cgraphql%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cprisma%2Cfirebase&theme=light">
       </picture>
     </td>
   </tr>
@@ -59,8 +59,8 @@ I'm open to remote contract and full-time roles, and I'm happy to overlap with A
     <td><b>Cloud and delivery</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,git,vercel&theme=dark">
-        <img alt="AWS, Docker, GitHub Actions, GitLab CI, Git, Vercel" src="https://skillicons.dev/icons?i=aws,docker,githubactions,gitlab,git,vercel&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cdocker%2Cgithubactions%2Cgitlab%2Cgit%2Cvercel&theme=dark">
+        <img alt="AWS, Docker, GitHub Actions, GitLab CI, Git, Vercel" src="https://skillicons.dev/icons?i=aws%2Cdocker%2Cgithubactions%2Cgitlab%2Cgit%2Cvercel&theme=light">
       </picture>
     </td>
   </tr>
