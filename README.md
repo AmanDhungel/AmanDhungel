@@ -10,7 +10,7 @@ I build web apps end to end, from the booking screen a customer taps on to the A
 
 I'm open to remote contract and full-time roles, and I'm happy to overlap with Australian business hours.
 
-**[Portfolio](https://amanportfolio-bay.vercel.app)** &nbsp;/&nbsp; **[LinkedIn](https://www.linkedin.com/in/aman-dhungel-1a4773187)** &nbsp;/&nbsp; **[Email me](mailto:dhungelaman2000@gmail.com)**
+**[Portfolio](https://amandhungel.com.np)** &nbsp;/&nbsp; **[LinkedIn](https://www.linkedin.com/in/aman-dhungel-1a4773187)** &nbsp;/&nbsp; **[Email me](mailto:dhungelaman2000@gmail.com)**
 
 <br>
 
@@ -24,13 +24,13 @@ I'm open to remote contract and full-time roles, and I'm happy to overlap with A
 
 ### Things I've shipped
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| [whaustralia.com](https://whaustralia.com) | Local business directory, bookings, staff scheduling and event ticketing | Stripe, Redis, React Native (in progress) |
-| EMS | Business system with geofenced check-ins, an offline queue and unit-tested accounting | Next.js, TypeScript, MongoDB, AWS S3 |
-| [nationalhomedecor.com.np](https://nationalhomedecor.com.np) | Online store with cart, eSewa payments, blog and admin panel | Next.js, Node.js, TypeScript |
-| [ssstoreandsuppliers.com](https://ssstoreandsuppliers.com) | E-commerce site with a simpler checkout and SEO work behind it | React, GSAP |
-| [bamboohomesupport.com.au](https://bamboohomesupport.com.au) and [bamboonursing.com.au](https://bamboonursing.com.au) | Websites for two Australian businesses | WordPress |
+| Project                                                                                                               | What it does                                                                          | Built with                                |
+| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :---------------------------------------- |
+| [whaustralia.com](https://whaustralia.com)                                                                            | Local business directory, bookings, staff scheduling and event ticketing              | Stripe, Redis, React Native (in progress) |
+| EMS                                                                                                                   | Business system with geofenced check-ins, an offline queue and unit-tested accounting | Next.js, TypeScript, MongoDB, AWS S3      |
+| [nationalhomedecor.com.np](https://nationalhomedecor.com.np)                                                          | Online store with cart, eSewa payments, blog and admin panel                          | Next.js, Node.js, TypeScript              |
+| [ssstoreandsuppliers.com](https://ssstoreandsuppliers.com)                                                            | E-commerce site with a simpler checkout and SEO work behind it                        | React, GSAP                               |
+| [bamboohomesupport.com.au](https://bamboohomesupport.com.au) and [bamboonursing.com.au](https://bamboonursing.com.au) | Websites for two Australian businesses                                                | WordPress                                 |
 
 <br>
 
@@ -72,13 +72,13 @@ Also: React Native and Expo, Zustand, TanStack Query, Stripe, JWT auth, AWS Lamb
 
 ### Where I've worked
 
-| Role | Company | When |
-| :-- | :-- | :-- |
-| Full-stack developer (freelance, remote) | Sunyaverse, Australia | Jan 2026 to now |
-| Full-stack developer, leading a team of six | GurukulHub, Kathmandu | Oct 2025 to now |
-| Web developer and marketing manager | Suvaansh Group | Jun 2025 to Apr 2026 |
-| Junior frontend developer | Fatdog Labs Agency, Kathmandu | Mar 2024 to Feb 2025 |
-| Freelance and contract work | Clients in Nepal | 2022 to 2024 |
+| Role                                        | Company                       | When                 |
+| :------------------------------------------ | :---------------------------- | :------------------- |
+| Full-stack developer (freelance, remote)    | Sunyaverse, Australia         | Jan 2026 to now      |
+| Full-stack developer, leading a team of six | GurukulHub, Kathmandu         | Oct 2025 to now      |
+| Web developer and marketing manager         | Suvaansh Group                | Jun 2025 to Apr 2026 |
+| Junior frontend developer                   | Fatdog Labs Agency, Kathmandu | Mar 2024 to Feb 2025 |
+| Freelance and contract work                 | Clients in Nepal              | 2022 to 2024         |
 
 B.IT from the University of Sunderland, taught at ISMT College, Kathmandu (2019 to 2023).
 
